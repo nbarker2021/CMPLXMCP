@@ -1,0 +1,11 @@
+# SKILLS
+
+## Local Skill Contract
+- Scope: `CMPLX-DevLab/mcp_os/agrm_mdhg_integration`
+- Apply the following skills when modifying this directory:
+- compose-parallel-fuse
+- scaffold-pattern-mine
+
+## Expectations
+- Favor deterministic scripts and repeatable workflows.
+- Keep operational and navigation docs synchronized.
